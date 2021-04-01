@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/mmdblookup.dir/main.c.o  -o mmdblookup  -lmaxminddb 

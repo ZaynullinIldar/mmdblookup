@@ -1,0 +1,3 @@
+/home/zaynullin/mmdblookup/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zaynullin/mmdblookup/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zaynullin/mmdblookup/cmake-build-debug/CMakeFiles/mmdblookup.dir
